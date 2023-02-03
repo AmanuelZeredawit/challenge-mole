@@ -1,14 +1,17 @@
 # challenge-mole
 
 ## General Description of the project
- Them main objective of the project is to create an AI that can detect when the mole is dangerous. And To be able to deploy it, with a simple web page where the user could upload a picture of the mole and see the result.
+ Them main objective of the project is to create an AI that can detect when the mole is dangerous. And to be able to deploy it, with a simple web page where the user could upload a picture of the mole and see the result.
+
+
+ ![app](images/app.png)
 
 
 
 ## Deployment 
 
 
-The application is deployable  with streamlit l. 
+The application is deployable  with streamlit. 
 
 
 1. Install virtualenv
