@@ -1,0 +1,8 @@
+pandas
+streamlit
+scikit-learan
+fastai
+keras
+numpy
+tensorflow
+pathlib
